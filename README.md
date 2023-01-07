@@ -3,7 +3,7 @@ This repo records the notes of the book "Fluent Python".
 
 ## Using this repo
 - Share notes: `/Notes`
-- You can take notes directly in mockdown file or just share link where your notes placed.
+- You can take notes directly in mockdown file or just share the link where your notes are placed.
 - Remember to update the **readme file** of your sharing informations.
 
 ## Schedule
