@@ -1,11 +1,12 @@
 # python-study-group
-This repo records the notes of the book "Fluent Python"
+This repo records the notes of the book "Fluent Python".
 
+## Using this repo
 - Share notes: `/Notes`
+- You can take notes directly in mockdown file or just share link where your notes placed.
+- Remember to update the **readme file** of your sharing informations.
 
-## 進度規劃
-
-### Study
+## Schedule
 
 | 章節 | Owner | Date | Reference
 |  ---- | ---- | ---- | ---- |
