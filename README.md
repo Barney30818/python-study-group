@@ -1,6 +1,9 @@
 # python-study-group
 This repo records the notes of the book "Fluent Python".
 
+![image](https://user-images.githubusercontent.com/69409373/216548888-a1779914-558e-458a-b190-f68ec9d60a54.png)
+
+
 ## Using this repo
 - Share notes: `/Notes`
 - You can take notes directly in mockdown file or just share the link where your notes are placed.
