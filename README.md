@@ -20,3 +20,4 @@ This repo records the notes of the book "Fluent Python".
 | 5 一級函式               | Barney Yu    | 2022/01/11 | [5 一級函式](Notes/5.%20一級函式.md)                             |
 | 6 使用一級函式的設計模式 | Balin Lin    | 2022/01/11 | [6 使用一級函式的設計模式](Notes/6.%20使用一級函式的設計模式.md) |
 | 7 函式修飾器與Closure    | William Hung | 2023/1/3   | [7. 函式修飾器與Closure](Notes/7.%20函式修飾器與Closure.md) |
+| 10 序列修改、雜湊與切片 | William Hung | 2023/1/5 |[10. 序列修改、雜湊與切片](Notes/10.%20序列修改、雜湊與切片.md) |
