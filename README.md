@@ -22,4 +22,4 @@ This repo records the notes of the book "Fluent Python".
 | 7 函式修飾器與Closure    | William Hung | 2023/1/3   | [7. 函式修飾器與Closure](Notes/7.%20函式修飾器與Closure.md) |
 | 10 序列修改、雜湊與切片 | William Hung | 2023/1/5 |[10. 序列修改、雜湊與切片](Notes/10.%20序列修改、雜湊與切片.md) |
 | 13 運算子多載：做正確的事 | Balin Lin | 2023/03/14 | [13. 運算子多載：做正確的事](Notes/13.%20運算子多載：做正確的事.md) |
-| 15 情境管理器與else區塊 | Peter Sone | 2023/03/14 | [15. 情境管理器與else區塊](Notes/15.%20情境管理器與else區塊.md) |
+| 15 情境管理器與else區塊 | Peter Song | 2023/03/14 | [15. 情境管理器與else區塊](Notes/15.%20情境管理器與else區塊.md) |
