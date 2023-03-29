@@ -2,6 +2,8 @@ import asyncio
 import itertools
 import time
 
+from primes import is_prime, NUMBERS
+
 async def spin(msg: str) -> None:
     for char in itertools.cycle(r'\|/-'):
         status = f'\r{char} {msg}'
@@ -16,6 +18,8 @@ async def spin(msg: str) -> None:
 async def slow() -> int:
     await asyncio.sleep(3)
     # time.sleep(3)
+    # for n in NUMBERS:
+    #     is_prime(n)
     return 42
 
 def main() -> None:  # The only regular function defined in this program, the others are coroutines.
